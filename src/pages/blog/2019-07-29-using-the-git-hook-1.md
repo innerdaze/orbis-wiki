@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Using the Git Hook
 date: 2019-07-29T09:45:26.786Z
 description: How to use the Git hook for enforcing branch name conventions
-featuredpost: false
+featuredpost: true
 featuredimage: /img/imbmgk02w6onylemtdrfnhtg1.svg
 tags:
   - git
